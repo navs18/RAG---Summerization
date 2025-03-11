@@ -1,0 +1,5 @@
+Searched Score: 0.5411058068275452 
+Make: FORD 
+Model: ESCAPE 
+Year: 2001 
+Summary: Ford Motor Company is recalling certain model year 2001 through 2004 Escape vehicles equipped with 3.0L V6 engines and speed control manufactured from October 22, 1999, through January 23, 2004.  Inadequate clearance between the engine cover and the speed control cable connector could result in a stuck throttle when the accelerator pedal is fully or almost-fully depressed.  This risk exists regardless of whether or not speed control (cruise control) is used. A stuck throttle may result in very high vehicle speeds and make it difficult to stop or slow the vehicle, which could cause a crash, serious injury or death.  Ford will notify owners, and dealers will repair the vehicles by increasing the engine cover clearance, free of charge.  The safety recall began August 3, 2012.  Remedy parts are expected to be available in mid-August 2012.  Until then dealers will disconnect the speed control cable as an interim remedy, if parts are not available at the time of an owner's service appointment.  Owners may contact Ford at 1-866-436-7332. 
